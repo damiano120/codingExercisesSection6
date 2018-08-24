@@ -1,5 +1,3 @@
-public class LastDigitChecker {
-
     // Program zwraca true jeśli przynajmniej dwie z trzech podanych liczb mają taką samą cyfrę z prawej strony
 
     public class LastDigitChecker {
