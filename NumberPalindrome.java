@@ -1,6 +1,6 @@
 public class NumberPalindrome{
 
-    // Program sprawdza czy numer jest palindromem (taki sam ciąg znaków czytany od przod i od tyłu
+    // Program sprawdza czy numer jest palindromem (taki sam ciąg znaków czytany od przodu i od tyłu
 
     public static void main(String[] args) {
 
