@@ -1,5 +1,3 @@
-public class SharedDigit {
-
     // Program zwraca true jeśli podane liczby z zakresu od 9 do 99 posiadają jedną wspólną cyfrę
 
     public class SharedDigit {

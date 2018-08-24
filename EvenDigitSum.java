@@ -1,5 +1,3 @@
-public class EvenDigitSum {
-
     // Program oblicza sumę cyfr parzystych podanej liczby
 
     public class EvenDigitSum {
